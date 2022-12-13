@@ -1,0 +1,10 @@
+D:\dev\pocket\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\dev\pocket\Encryption\obj\Debug\Encryption.Form1.resources
+D:\dev\pocket\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+D:\dev\pocket\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+D:\dev\pocket\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\dev\pocket\Encryption\bin\Debug\Encryption.exe.config
+D:\dev\pocket\Encryption\bin\Debug\Encryption.exe
+D:\dev\pocket\Encryption\bin\Debug\Encryption.pdb
+D:\dev\pocket\Encryption\obj\Debug\Encryption.exe
+D:\dev\pocket\Encryption\obj\Debug\Encryption.pdb
